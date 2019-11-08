@@ -1,0 +1,24 @@
+{
+  "name": "IsotopeC_PaperWalletGenerator",
+  "version": "1.0.0",
+  "description": "Open Source JavaScript Client-Side IsotopeC Wallet Generator",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "~0.4.1",
+    "grunt-combine": "~0.8.3",
+    "grunt-lineending": "~0.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/isotopec-org/IsotopeC_PaperWalletGenerator.git"
+  },
+  "keywords": [
+    "isotopec address wallet generator"
+  ],
+  "author": "isotopec-org",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/isotopec-org/IsotopeC_PaperWalletGenerator/issues"
+  }
+}
