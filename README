@@ -31,9 +31,9 @@ Example: importprivkey 5JayMgbuigCqJ7kHZU1e8sF4G5nmDmGyxUbawQffi7GRZqYmnfU
 What is a Brain Wallet? Are you in the NSA or CIA? Do you have a good memory?
 A brain wallet is where you remember your mnemonic phrase/private key and never write it down. And in some cases, if the user forgets the mnemonic phrase or dies without telling anyone or goes into a coma, then the associated crypto-coins are lost forever.
 
-**** LOOKING FOR THE ZIP FILE TO DOWNLOAD ? ***********************************
-It's here: https://github.com/IsotopeC/PaperWalletGenerator/archive/master.zip
-*******************************************************************************
+**** LOOKING FOR THE ZIP FILE TO DOWNLOAD ? ***********************************************
+It's here: https://github.com/isotopec-org/IsotopeC_PaperWalletGenerator/archive/master.zip
+*******************************************************************************************
 
 License
 -------
