@@ -184,7 +184,7 @@ janin.currencies = [
     janin.currency.createCurrency ("Influxcoin",          0x66, 0xe6, "8",    "b"    , "i83eN9HxFvfsxSwjXiZQZaWf13cWF25K9Y"),
     janin.currency.createCurrency ("Innox",               0x4b, 0xcb, "7",    "X"    , "XQm6Vy2tTh87ZnWg6cBdZBmYVExbVuScBF"),
     janin.currency.createCurrency ("IridiumCoin",         0x30, 0xb0, "6",    "T"    , "LKTu2strS8zV1mDJxJtgE3HLqChD2m54yN"),
-    janin.currency.createCurrency ("IsotopeC",            0x66, 0x80, "5",    "[LK]" , "iCXACrC3qMczs3tkRJYGN2KgPEkmzKXkRN"),
+    janin.currency.createCurrency ("IsotopeC",            0x66, 0x80, "5",    "[LK]" , "iCJbPgNr8nm3kKi8p78TcFoHCaEYzXNo9J"),
     janin.currency.createCurrency ("iCash",               0x66, 0xcc, "7",    "X"    , "iKCghTCFEPhriPxrduWxks2SCDE1XKzCU6"),
     janin.currency.createCurrency ("iXcoin",              0x8a, 0x80, "5",    "[LK]" , "xnF1nshqFLaVdDGBmQ4k2jBQkr8nbuCkLz"),
     janin.currency.createCurrency ("Judgecoin",           0x2b, 0xab, "6",    "S"    , "JbF9ZnvoFkBdasPEq21jCCTnTUDSiyWrAQ"),
